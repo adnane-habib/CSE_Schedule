@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CSE_Schedule/src/main/java"/>
+	<classpathentry kind="output" path="CSE_Schedule/build/classes"/>
+</classpath>
